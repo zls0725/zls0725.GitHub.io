@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 香港Henry</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on 香港Henry</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on 亨利的博客</title>
+    <link>https://zls0725.github.io/tags/</link>
+    <description>Recent content in Tags on 亨利的博客</description>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 05 Sep 2025 00:57:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Gratitude-Diary</title>
-      <link>http://localhost:1313/tags/gratitude-diary/</link>
-      <pubDate>Fri, 05 Sep 2025 00:57:46 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/gratitude-diary/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zls0725.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/space/</guid>
+      <link>https://zls0725.github.io/tags/space/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://zls0725.github.io/tags/space/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>
