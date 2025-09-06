@@ -23,7 +23,7 @@ jobs:
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
-          apiToken: ${{hsZefHjMT5bln3yxKl_HPIAO9c1EAfIyvNPE_KFF}}
-          accountId: ${{ githubfabu }}
+          apiToken: ${{secrets.CLOUDFLARE_API_TOKEN}}
+          accountId: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
           projectName: zls0725
           directory: public
